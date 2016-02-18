@@ -1,0 +1,12 @@
+$color: red;
+
+.foo {
+  color: $color;
+  #bar {
+    font-family: sans-serif;
+  }
+  .foofoo {
+    font-size: 100px;
+  }
+}
+

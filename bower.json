@@ -1,0 +1,26 @@
+{
+  "name": "playground",
+  "description": "This is going to be a test area for angular modules",
+  "main": "app.js",
+  "authors": [
+    "matt@fyrespark.com"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "angular-local-storage": "~0.1.5",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6"
+  }
+}
